@@ -20,7 +20,7 @@ teaching tool for power system transient stability studies.
 
 # Objective
 
-In this project, you will will learn to:
+In this project, you will learn to:
 
 1. Investigate power system transient stability using ANDES
 2. Develop power system dynamic model in ANDES
