@@ -4,7 +4,7 @@ Hands-on Project for using ANDES in Power System Transient Stability Analysis.
 
 # Background
 
-In Spring 2023, Dr. Kevin Tomsovic will offer the graduate cource [ECE
+In Spring 2023, Dr. Kevin Tomsovic will offer the graduate course [ECE
 522](https://catalog.utk.edu/preview_course_nopop.php?catoid=4&coid=45524) at
 University of Tennessee, Knoxville (UTK).
 
