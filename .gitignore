@@ -1,2 +1,7 @@
 # Ipython Notebook
 .ipynb_checkpoints
+
+# Editor files
+#mac
+.DS_Store
+*~
