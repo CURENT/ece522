@@ -27,9 +27,9 @@ In this project, you will learn to:
 
 # Table of Content
 
-1. Tutorial
+1. [Tutorial](./tutorial/)
 
-   1. Chapter 1 - Getting Started with ANDES
+   1. [Chapter 1 - Getting Started with ANDES](./tutorial/ch1.ipynb)
    2. Chapter 2 - ANDES File Conversion and Configuration
    3. Chapter 3 - Critical Clearing Time
    4. Chapter 4 - Model Development of an Open-loop PI Controller
