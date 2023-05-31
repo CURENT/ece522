@@ -30,10 +30,10 @@ In this project, you will learn to:
 1. [Tutorial](./tutorial/)
 
    1. [Chapter 1 - Getting Started with ANDES](./tutorial/ch1.ipynb)
-   2. [Chapter 2 - ANDES File Conversion and Configuration](./tutorial/ch1.ipynb)
-   3. [Chapter 3 - Critical Clearing Time](./tutorial/ch1.ipynb)
-   4. [Chapter 4 - Model Development of an Open-loop PI Controller](./tutorial/ch1.ipynb)
-   5. [Chapter 5 - Model Development of an Close-loop PI Controller](./tutorial/ch1.ipynb)
+   2. [Chapter 2 - ANDES File Conversion and Configuration](./tutorial/ch2.ipynb)
+   3. [Chapter 3 - Critical Clearing Time](./tutorial/ch3.ipynb)
+   4. [Chapter 4 - Model Development of an Open-loop PI Controller](./tutorial/ch4.ipynb)
+   5. [Chapter 5 - Model Development of an Close-loop PI Controller](./tutorial/ch5.ipynb)
 2. [Final project - Dynamic Model Development in ANDES](./final/FinalProject.md)
 
 # ANDES
