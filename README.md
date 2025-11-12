@@ -18,6 +18,8 @@ The course covers topic:
 In the course, ANDES of the CURENT Large Scale Testbed is employed as the
 teaching tool for power system transient stability studies.
 
+A presentation recording for this course is available at YouTube: <https://youtu.be/MY0YarBx808?si=rXR_6FU7GkxaKIal>
+
 # Objective
 
 In this project, you will learn to:
